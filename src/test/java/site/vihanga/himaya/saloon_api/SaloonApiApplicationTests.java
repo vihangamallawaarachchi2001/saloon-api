@@ -1,0 +1,13 @@
+package site.vihanga.himaya.saloon_api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SaloonApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
